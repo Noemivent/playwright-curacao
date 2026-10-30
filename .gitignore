@@ -1,0 +1,11 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Archivos temporales de los agentes de Playwright (MCP)
+.playwright-mcp/
+scratch-snap.yml
+
+.DS_Store
